@@ -11,4 +11,3 @@ class Window(tk.Tk):
 if __name__ == "__main__":
     window = Window()
     window.mainloop()
-
